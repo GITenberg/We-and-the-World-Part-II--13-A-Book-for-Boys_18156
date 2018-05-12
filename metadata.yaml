@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1803
     wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18156#We-and-the-World-Part-II--13-A-Book-for-Boys
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-04-12'
 gutenberg_type: Text
